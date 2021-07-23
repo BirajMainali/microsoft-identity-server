@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microsoft-identity-server", "microsoft-identity-server\microsoft-identity-server.csproj", "{6916AA80-89FF-48DD-BCB8-75FC9C330CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microservice", "microservice\microservice.csproj", "{E0491A42-B2CB-4115-AB63-CF7FBC980461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6916AA80-89FF-48DD-BCB8-75FC9C330CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6916AA80-89FF-48DD-BCB8-75FC9C330CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6916AA80-89FF-48DD-BCB8-75FC9C330CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6916AA80-89FF-48DD-BCB8-75FC9C330CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0491A42-B2CB-4115-AB63-CF7FBC980461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0491A42-B2CB-4115-AB63-CF7FBC980461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0491A42-B2CB-4115-AB63-CF7FBC980461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0491A42-B2CB-4115-AB63-CF7FBC980461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
